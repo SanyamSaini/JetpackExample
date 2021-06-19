@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">JetpackExample</string>
+    <string name="app_name">Apps10xTest</string>
+
+    <string name="error_msg">Something went wrong at our end!</string>
+    <string name="retry">Retry</string>
+    <string name="_c">%s C</string>
+    <string name="_degree">%s&#176;</string>
 </resources>
